@@ -1,0 +1,15 @@
+
+
+/* this code is for the block, inline and overflow*/
+.img1{  
+    width: 550px;
+    height:300px;
+    float: left; 
+    margin-right: 20px; 
+  } 
+
+.div1 {
+height: 300px;
+width:600px;
+overflow:auto;
+}
